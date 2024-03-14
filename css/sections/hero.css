@@ -14,8 +14,8 @@
 }
 
 .hero-image img {
-  width: 90%;
-  height: 60%;
+  width: 100%;
+  height: 1000%;
   object-fit: contain;
 }
 
