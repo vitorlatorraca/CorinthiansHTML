@@ -4,8 +4,7 @@
   display: flex;
   flex-direction: column;
 
-  background-color: var(--primary-color);
-  background-image: url("../../assets/popular_bg.png");
+  background-color:dimgrey;
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -154,14 +153,14 @@
 }
 
 .popular-foods__card-rating p {
-  font-size: 20px; 
+  font-size: 20px;
   font-weight: 300;
   font-family: var(--plus-jakarta-sans);
   color: #fff;
 }
 
 .popular-foods__card-price {
-  font-size: 20px; 
+  font-size: 20px;
   font-weight: 500;
   font-family: var(--plus-jakarta-sans);
   color: #fff;
