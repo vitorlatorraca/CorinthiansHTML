@@ -1,5 +1,9 @@
 # Corinthians Fan Website
 
+![Corinthians HTML Print 1](CorinthiansHTML-print1.png)
+![Corinthians HTML Print 2](CorinthiansHTML-print2.png)
+![Corinthians HTML Print 3](CorinthiansHTML-print3.png)
+
 This website is a simple project created by Vitor Espindula da Rocha Latorraca to learn basic concepts of HTML, CSS, and JavaScript while combining his passion for the Corinthians football club. The goal was to make the learning experience more engaging and enjoyable by working on a project related to something he loves.
 
 ## About the Project
